@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes container- version 01</h2>
+<h2> Deploying on a kubernetes container- version 02</h2>
 
