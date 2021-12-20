@@ -5,7 +5,7 @@
     <input type="text" id="lname" name="lname" value="Doe"><br>
     <label for="lname">Email:</label><br>
     <input type="email" id="lemail" name="lemail" value=""><br>
-    <label for="lname">Paaaword:</label><br>
+    <label for="lname">Password:</label><br>
     <input type="password" id="lpassword" name="lpassword" value=""><br><br>
    
     <input type="submit" value="Submit">
