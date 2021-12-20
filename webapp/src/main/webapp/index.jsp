@@ -5,6 +5,8 @@
     <input type="text" id="mname" name="mname" value="Kumar"><br>
     <label for="lname">Last name:</label><br>
     <input type="text" id="lname" name="lname" value="Saxena"><br>
+    <label for="lname">Address:</label><br>
+    <input type="text" id="laddress" name="laddress" value="Saxena"><br>
     <label for="lname">Email:</label><br>
     <input type="email" id="lemail" name="lemail" value=""><br>
     <label for="lname">Password:</label><br>
