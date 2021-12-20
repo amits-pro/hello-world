@@ -7,6 +7,8 @@
     <input type="email" id="lemail" name="lemail" value=""><br>
     <label for="lname">Password:</label><br>
     <input type="password" id="lpassword" name="lpassword" value=""><br><br>
+    <label for="lname">Confirm Password:</label><br>
+    <input type="password" id="lconfirmPassword" name="lconfirmPassword" value=""><br><br>
    
     <input type="submit" value="Submit">
   </form>
